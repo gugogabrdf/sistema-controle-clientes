@@ -1,6 +1,6 @@
 # Sistema de Controle de Clientes
 
-Este projeto é uma aplicação console desenvolvida em C# como parte de uma atividade educacional (SA2 - Atividade 1). O sistema permite o cadastro simplificado de clientes, diferenciando entre Pessoas Físicas e Pessoas Jurídicas, e realiza o cálculo de impostos sobre um valor de compra informado.
+Este projeto é uma aplicação console desenvolvida em C# como parte de uma atividade educacional da Turma de Desenvolvimento Full Stack do SENAI da UC12-Codificação para Back-End - CTMSP_DDF_QO_FULLST_251T01_CBEND_QUA.459.028 (SA2 - Atividade 1). O sistema permite o cadastro simplificado de clientes, diferenciando entre Pessoas Físicas e Pessoas Jurídicas, e realiza o cálculo de impostos sobre um valor de compra informado.
 
 ## 🚀 Funcionalidades
 
