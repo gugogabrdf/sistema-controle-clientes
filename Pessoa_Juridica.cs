@@ -13,7 +13,7 @@ namespace Atividade
         public override void Pagar_Imposto(float v)
         {
             this.valor = v;
-            this.valor_imposto = this.valor *0.2f;
+            this.valor_imposto = this.valor * 0.2f;
             this.total = this.valor + this.valor_imposto;
         }
     }

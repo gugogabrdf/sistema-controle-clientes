@@ -6,7 +6,7 @@ namespace Atividade
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Informar nome: ");
+            Console.WriteLine("Informar Nome: ");
             string var_nome = Console.ReadLine();
             Console.WriteLine("Informar Endereço: ");
             string var_endereco = Console.ReadLine();
@@ -22,7 +22,7 @@ namespace Atividade
                 pf.cpf = Console.ReadLine();
                 Console.WriteLine("Informar o RG: ");
                 pf.rg = Console.ReadLine();
-                Console.WriteLine("Informar o valor de compra: ");
+                Console.WriteLine("Informar o Valor de Compra: ");
                 float val_pag = float.Parse(Console.ReadLine());
                 pf.Pagar_Imposto(val_pag);
                 Console.WriteLine($"Nome: {pf.nome}, Total a Pagar: {pf.total}");
